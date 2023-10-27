@@ -1,0 +1,276 @@
+.headTop{
+  background-color: #f8f9fa;
+  padding: 1em;
+  border-bottom: 1px solid #dee2e6  
+}
+
+
+img{
+  width: 5em;
+}
+
+html{
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  padding: 0 2em;
+}
+.headTop .menuHeadChung{
+  margin-left: 3em;
+}
+.headTop .Nav-Link{
+  margin: 0 5px;
+  text-decoration: none;
+}
+
+.headCenter{
+  border-bottom: 1px solid #dee2e6  
+}
+
+.headCenter .row{
+  
+ align-items: center;
+}
+.headCenter img{
+  margin: 1em 0 1em 5em;
+  width: 20%;
+  height: 7em;
+}
+.headCenter .container{
+  display: flex;
+  align-items: center;
+}
+
+.headCenter .container h1{
+  margin-left: 2em;
+}
+
+.headCenter input{
+  width: 20em;
+}
+
+.headBottom{
+  border-bottom: 1px solid #dee2e6;
+  padding: 1em;
+}
+
+
+
+
+
+
+.AnhBenner img{
+  width: 80%;
+  height: 30em;
+}
+
+.headerLoai{
+  margin: 25pt;
+}
+
+.AnhSP{
+  
+  width: 50%;
+}
+
+.SanPham{
+  border: 2pt double black;
+  text-align: center;
+  margin: 10pt;
+}
+
+.TopSP{
+  margin-top: 10pt;
+  margin-bottom: 10pt;
+}
+
+.BottomSP{
+  margin-top: -10pt;
+  margin-bottom: 10pt;
+  
+}
+
+.Center1SP{
+  margin-bottom: -10pt;
+  margin-top: 1em;
+}
+
+.Center2SP{
+  margin: 14px 0 0 0;
+}
+.MenuSP{
+  text-align: center;
+  margin-top: -200px;
+}
+
+.NutBuy{
+  padding: 0 60pt;
+}
+
+.CuoiTrangSP{
+  padding-top: 10px;
+  background-color: #f4f4f6;
+
+}
+
+.CuoiTrangSP a{
+    text-decoration: none;
+}
+
+.CuoiTrangSP .row{
+  padding-left: 15px;
+}
+
+.NDTrangCT{
+  margin: 0 70px; 
+ }
+ 
+ .SaoDG .fa{
+  margin-left: 1em;
+   color: yellow;
+ }
+
+
+ .Rong{
+   margin: 100px;
+ }
+
+ .ONX{
+   border: 2pt double black;
+ }
+.soluongGio{
+  color: blue ;
+  text-align: center;
+}
+.GioSP{
+  border-bottom: 1px solid #dee2e6;
+  padding-top: 3em;
+  padding-bottom: 2em;
+}
+.GioSP img{
+  margin-top: 3em;
+}
+.GioSP :checked{
+  width: 100px;
+}
+
+.GioXoa{
+  background-color: red;
+  margin-bottom: 5em;
+  width: 100%;
+  height: 7em;
+}
+.GioSua{
+  background-color: aqua;
+  margin-top: -4em;
+  width: 100%;
+  height: 7em;
+}
+.GioTV{
+  margin-top: 3em;
+  width: 100%;
+  background-color: orange;
+}
+.GioTT{
+  margin-top: 3em;
+  width: 100%;
+  background-color: orange;
+}
+
+.thanhToanNN input{
+margin-top: 1em;
+}
+
+#wrapper{
+  
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#form-login{
+  max-width: 400px;
+  background: rgba(0, 0, 0 , 0.8);
+  flex-grow: 1;
+  padding: 30px 30px 40px;
+  box-shadow: 0px 0px 17px 2px rgba(255, 255, 255, 0.8);
+}
+.form-heading{
+  font-size: 25px;
+  color: #f5f5f5;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.form-group{
+  border-bottom: 1px solid #fff;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  display: flex;
+}
+.form-group i{
+  color: #fff;
+  font-size: 14px;
+  padding-top: 5px;
+  padding-right: 10px;
+}
+.form-input{
+  background: transparent;
+  border: 0;
+  outline: 0;
+  color: #f5f5f5;
+  flex-grow: 1;
+}
+.form-input::placeholder{
+  color: #f5f5f5;
+}
+#eye i{
+  padding-right: 0;
+  cursor: pointer;
+}
+
+.form-submit{
+  background: transparent;
+  border: 1px solid #f5f5f5;
+  color: #fff;
+  width: 100%;
+  text-transform: uppercase;
+  padding: 6px 10px;
+  transition: 0.25s ease-in-out;
+  margin-top: 30px;
+}
+.form-submit:hover{
+  border: 1px solid #54a0ff;
+}
+.body{
+  background: url('../public/2.jpg');
+  background-size: cover;
+    background-position-y: -80px;
+    font-size: 16px;
+}
+.anhTK{
+
+  width: 100%;
+  height: 100%;
+}
+.QLTK h3{
+  margin-top: 3em;
+}
+.QLTK input{
+  margin-top: 2em;
+}
+.QLTK button {
+  margin-top: 2em;
+}
+.QuanLyDonHang div{
+
+  border: 1px black solid;
+  margin-top: 2em;
+}
+.DHTV{
+ margin:2em 100em 0 0 ;
+ width: 15%;
+ background-color: orange;
+}
+.DHTV button{
+  width: 3em;
+}
